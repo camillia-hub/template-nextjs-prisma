@@ -1,0 +1,1 @@
+{"name": "Next.js + Prisma SaaS", "slug": "template-nextjs-prisma", "kind": "workspace-template", "description": "Workspace template for a multi-tenant SaaS built on Next.js App Router, Prisma and PostgreSQL.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "contentDir": "workspace"}
