@@ -1,6 +1,6 @@
 # SaaS workspace: Next.js + Prisma + PostgreSQL
 
-This workspace builds **<Product>**, a multi-tenant SaaS application:
+This workspace builds **{{ projectName }}**, a multi-tenant SaaS application:
 
 - `app` — a Next.js 15 (App Router) + Prisma 6 + PostgreSQL 16 monorepo that
   contains the web app, its Server Actions, the database schema and the email

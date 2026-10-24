@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "key": "web",
+      "label": "Web application",
+      "description": "Next.js SaaS application",
+      "required": true,
+      "overrideContent": false
+    }
+  ]
+}
